@@ -1,0 +1,32 @@
+C:\Users\EKA\AppData\Local\Temporary Projects\Xraiden\bin\Debug\Xraiden.exe
+C:\Users\EKA\AppData\Local\Temporary Projects\Xraiden\bin\Debug\Xraiden.pdb
+C:\Users\EKA\AppData\Local\Temporary Projects\Xraiden\bin\Debug\Xraiden.xml
+C:\Users\EKA\AppData\Local\Temporary Projects\Xraiden\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\EKA\AppData\Local\Temporary Projects\Xraiden\obj\x86\Debug\Xraiden.frRaiden.resources
+C:\Users\EKA\AppData\Local\Temporary Projects\Xraiden\obj\x86\Debug\Xraiden.msgBox.resources
+C:\Users\EKA\AppData\Local\Temporary Projects\Xraiden\obj\x86\Debug\Xraiden.Resources.resources
+C:\Users\EKA\AppData\Local\Temporary Projects\Xraiden\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\EKA\AppData\Local\Temporary Projects\Xraiden\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\EKA\AppData\Local\Temporary Projects\Xraiden\obj\x86\Debug\Xraiden.exe
+C:\Users\EKA\AppData\Local\Temporary Projects\Xraiden\obj\x86\Debug\Xraiden.xml
+C:\Users\EKA\AppData\Local\Temporary Projects\Xraiden\obj\x86\Debug\Xraiden.pdb
+D:\VISUAL STUDIO 2010\Eka.vb.net\Xraiden\Xraiden\obj\x86\Debug\Xraiden.exe
+D:\VISUAL STUDIO 2010\Eka.vb.net\Xraiden\Xraiden\obj\x86\Debug\Xraiden.xml
+D:\VISUAL STUDIO 2010\Eka.vb.net\Xraiden\Xraiden\obj\x86\Debug\Xraiden.pdb
+D:\VISUAL STUDIO 2010\Eka.vb.net\Xraiden\Xraiden\bin\Debug\Xraiden.exe
+D:\VISUAL STUDIO 2010\Eka.vb.net\Xraiden\Xraiden\bin\Debug\Xraiden.pdb
+D:\VISUAL STUDIO 2010\Eka.vb.net\Xraiden\Xraiden\bin\Debug\Xraiden.xml
+D:\VISUAL STUDIO 2010\Eka.vb.net\Xraiden\Xraiden\obj\x86\Debug\Xraiden.frRaiden.resources
+D:\VISUAL STUDIO 2010\Eka.vb.net\Xraiden\Xraiden\obj\x86\Debug\Xraiden.msgBox.resources
+D:\VISUAL STUDIO 2010\Eka.vb.net\Xraiden\Xraiden\obj\x86\Debug\Xraiden.Resources.resources
+D:\VISUAL STUDIO 2010\Eka.vb.net\Xraiden\Xraiden\obj\x86\Debug\Xraiden.vbproj.GenerateResource.Cache
+D:\VS 2010\Xraiden\Xraiden\obj\x86\Debug\Xraiden.exe
+D:\VS 2010\Xraiden\Xraiden\obj\x86\Debug\Xraiden.xml
+D:\VS 2010\Xraiden\Xraiden\obj\x86\Debug\Xraiden.pdb
+D:\VS 2010\Xraiden\Xraiden\bin\Debug\Xraiden.exe
+D:\VS 2010\Xraiden\Xraiden\bin\Debug\Xraiden.pdb
+D:\VS 2010\Xraiden\Xraiden\bin\Debug\Xraiden.xml
+D:\VS 2010\Xraiden\Xraiden\obj\x86\Debug\Xraiden.frRaiden.resources
+D:\VS 2010\Xraiden\Xraiden\obj\x86\Debug\Xraiden.msgBox.resources
+D:\VS 2010\Xraiden\Xraiden\obj\x86\Debug\Xraiden.Resources.resources
+D:\VS 2010\Xraiden\Xraiden\obj\x86\Debug\Xraiden.vbproj.GenerateResource.Cache
